@@ -1,3 +1,5 @@
+# See https://matthewdavis.io/angular-routing-to-the-same-component/
+
 # NgByexamplesRoutingSame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
